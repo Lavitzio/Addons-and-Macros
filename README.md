@@ -21,6 +21,10 @@ Commands for addon anchors on a new character
 
 *Some macros credit to North*
 
+### Open Macros!
+
+`/macro`
+
 ### Addon Unlock and Addon Lock, for setting up the anchors on a new character.
 
 ```
