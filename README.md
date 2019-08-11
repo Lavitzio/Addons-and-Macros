@@ -15,7 +15,7 @@ Commands for addon anchors on a new character
 
 *Contents of pack:*
 
-![](../_/LavitzAddonzV1Contents.png)
+![](./LavitzAddonzV3Contents.png)
 
 ## Macros
 
