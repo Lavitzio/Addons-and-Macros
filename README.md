@@ -4,7 +4,7 @@
 
 *`LavitzAddonzV3.zip`* - My current pack of addons (Aug 11 2019 StressTest)
 
-Does not contain a chat or bag addon. Maybe disable Luna Frames if it's your first time, all of the addons can be overwhelming at first.
+Mostly tailored for me as a mage. Does not contain a chat or bag addon. Maybe disable Luna Frames if it's your first time, all of the addons can be overwhelming at first.
 
 Commands for addon anchors on a new character
 
