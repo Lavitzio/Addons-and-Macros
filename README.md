@@ -17,7 +17,7 @@ Commands for addon anchors on a new character
 
 ![](./LavitzAddonzV3Contents.png)
 
-## Mage Macros
+## Macros (some Mage-specific)
 
 *Some macros credit to North*
 
